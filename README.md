@@ -93,7 +93,7 @@ A regulatory assistance application designed to help users work with regulatory 
 * Full-stack web applications
 
 
-## 📚 Currently Growing My Skills
+## Currently Growing My Skills
 
 I'm continuously improving my skills in:
 
